@@ -1,0 +1,7 @@
+.container {
+  background: rgb(237, 233, 233);
+  height: 100vh;
+  display: flex;
+  width: 100vw;
+  padding: 2px 8px;
+}
